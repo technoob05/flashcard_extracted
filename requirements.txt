@@ -3,3 +3,4 @@ beautifulsoup4==4.12.3
 requests==2.32.3
 pandas==2.2.3
 uuid==1.30.0
+gunicorn==20.1.0  # or the latest version
