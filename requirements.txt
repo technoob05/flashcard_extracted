@@ -1,10 +1,12 @@
 Flask==3.1.0
+Flask-SocketIO==5.4.1
 beautifulsoup4==4.12.3
 requests==2.32.3
 pandas==2.2.3
 uuid==1.30.0
 gunicorn==20.1.0  # or the latest version
-openpyxl==3.1.2
+openpyxl==3.1.5
+Werkzeug==3.1.3
 
 
 
